@@ -14,26 +14,26 @@ global.confirmCode = ''
 
 //• ↳𝑺𝑶𝑳𝑶 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹𝑬𝑺 𝑨𝑷𝑹𝑶𝑩𝑨𝑫𝑶𝑺
 global.owner = [
-['593939005387', '👑 𝗖𝗿𝗲𝗮𝗱𝗼𝗿 👑', true],
-['573012482597', '𝗢𝘄𝗻𝗲𝗿 👑', true],
-['593978663361', '𝗢𝘄𝗻𝗲𝗿2 👑', true]]
+['2348152119668', '👑 𝗖𝗿𝗲𝗮𝗱𝗼𝗿 👑', true],
+['2348102925093', '𝗢𝘄𝗻𝗲𝗿 👑', true],
+['2347072924919', '𝗢𝘄𝗻𝗲𝗿2 👑', true]]
 
 //• ↳𝑺𝑶𝑳𝑶 𝑴𝑶𝑫𝑬𝑹𝑨𝑫𝑶𝑹𝑬𝑺!
-global.mods = ['50558124470', '51929972576', '5491168758497', '51929972576', '5493794297363', '5492215034412', '595971684874']
+global.mods = ['2348152119668', '2348102925093', '2347072924919']
 
-global.suittag = ['593939005387']
-global.prems = []
+global.suittag = ['2348152119668']
+global.prems = ['2348152119668']
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
-global.packname = '⪛✰ 𝐆𝐨𝐤𝐮 𝐁𝐨𝐭 - 𝐌𝐃 ✰⪜'
-global.author = 'ᴊᴏsᴛɪɴ 👑'
-global.wm = '✨◌*̥₊ ɢᴏᴋᴜBᴏᴛ-MD ◌❐⚡༉'
-global.titulowm = 'GokuBot-MD 🍟'
-global.titulowm2 = 'Jostin'
-global.igfg = '𝙹𝙾𝚂𝚃𝙸𝙽'
-global.botname = 'ɢᴏᴋᴜ Bᴏᴛ - MD 🚩'
-global.dev = '👑 Developed By • ✨ Jostin'
-global.textbot = '𝗚𝗼𝗸𝘂𝗕𝗼𝘁 : 𝗝𝗼𝘀𝘁𝗶𝗻 🚩'
+global.packname = '⪛✰ Morningstar - 𝐌𝐃 ✰⪜'
+global.author = 'Bamireid 👑'
+global.wm = '✨MorningstarBᴏᴛ-MD ◌❐⚡༉'
+global.titulowm = 'Morningstar-MD 🍟'
+global.titulowm2 = 'Bamireid'
+global.igfg = 'BAMIREID'
+global.botname = 'morningstar- MD 🚩'
+global.dev = '👑 Developed By • ✨ Bamireid'
+global.textbot = 'Morningstar : Bamireid 🚩'
 global.vs = '2.0.2'
 
 //• ↳ ◜𝑰𝑴𝑨́𝑮𝑬𝑵𝑬𝑺◞ • 🌇
@@ -64,8 +64,8 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nGoku`;
-global.nomorown = '593939005387';
+global.wm2 = `${dia} ${fecha}\nMorningstar`;
+global.nomorown = '2348152119668';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
@@ -80,8 +80,8 @@ global.htki = '*⭑•̩̩͙⊱•••• ☪*';
 global.htka = '*☪ ••••̩̩͙⊰•⭑*';
 global.comienzo = '• • ◕◕════';
 global.fin = '════◕◕ • •';
-global.botdate = `${moment.tz('America/Mexico_City').format('DD/MM/YY')}`;
-global.bottime = `${moment.tz('America/Mexico_City').format('HH:mm:ss')}`;
+global.botdate = `${moment.tz('Africa/Lagos').format('DD/MM/YY')}`;
+global.bottime = `${moment.tz('Africa/Lagos').format('HH:mm:ss')}`;
 global.fgif = {key: {participant: '0@s.whatsapp.net'}, message: {'videoMessage': {'title': wm, 'h': `Hmm`, 'seconds': '999999999', 'gifPlayback': 'true', 'caption': bottime, 'jpegThumbnail': fs.readFileSync('./Menu.jpg')}}};
 global.multiplier = 99;
 global.flaaa = [
